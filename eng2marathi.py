@@ -31,3 +31,5 @@ with st.form("myform"):
         submit = st.form_submit_button(label="Submit",on_click=translate_txt)
     with c2:
         clear = st.form_submit_button(label="Clear", on_click=clear_form)
+
+st.toast('Welcome to my first English to Marathi translator app - :blue[Umesh S ] :sunglasses:')
