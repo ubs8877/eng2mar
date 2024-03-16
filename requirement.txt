@@ -1,0 +1,4 @@
+streamlit
+deep_translator
+streamlit_shadcn_ui
+streamlit-extras
